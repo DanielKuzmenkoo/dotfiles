@@ -1,4 +1,4 @@
 alias ..='cd ..'
-apti ='sudo apt install'
-aptr ='sudo apt remove'
-aptu ='sudo apt update'
+apti='sudo apt install'
+aptr='sudo apt remove'
+aptu='sudo apt update'
