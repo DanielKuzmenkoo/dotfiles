@@ -2,3 +2,5 @@ alias ..='cd ..'
 apti='sudo apt install'
 aptr='sudo apt remove'
 aptu='sudo apt update'
+pipi='pip install'
+
